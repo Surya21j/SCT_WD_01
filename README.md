@@ -1,4 +1,4 @@
-A responsive navigation bar built using HTML, CSS, and JavaScript. This project demonstrates a simple yet effective implementation of a navigation bar that adapts to different screen sizes.
+# A responsive navigation bar built using HTML, CSS, and JavaScript. This project demonstrates a simple yet effective implementation of a navigation bar that adapts to different screen sizes.
 
 Features
 ->Fully responsive design.
